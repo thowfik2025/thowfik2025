@@ -15,3 +15,17 @@
 <img width="49%" src="https://github-readme-stats-pearl-delta-46.vercel.app/api/top-langs/?username=thowfik2025&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 
 </div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/thowfik2025/thowfik2025/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/thowfik2025/thowfik2025/output/github-snake.svg">
+
+  <img
+    alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/thowfik2025/thowfik2025/output/github-snake.svg">
+</picture>
+</div>
